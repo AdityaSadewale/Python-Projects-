@@ -9,7 +9,7 @@ while True:
         print(f"You rolled: ({die1}, {die2})")
 
     elif choice == 'n':
-        print("Thank you for playing!")  # Exit message
+        print("Thank you for playing!") 
         break
 
     else:
