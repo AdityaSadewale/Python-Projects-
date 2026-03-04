@@ -1,0 +1,43 @@
+🎯 Random Number Guessing Game (Python)
+
+The Random Number Guessing Game is a simple command-line project developed using Python. It demonstrates the use of core programming concepts such as loops, conditional statements, exception handling, and the built-in random module.
+
+📌 Project Overview
+
+In this game, the program generates a random number between 1 and 100 using Python’s random.randint() function. The player is then prompted to guess the number. After each guess, the program provides feedback:
+
+"Too low!" if the guess is smaller than the generated number
+
+"Too high!" if the guess is larger than the generated number
+
+"Congratulations!" when the correct number is guessed
+
+The game continues in a loop until the player correctly guesses the number.
+
+🛠 Key Features
+
+Random number generation between 1 and 100
+
+Continuous gameplay using a while loop
+
+Input validation with try-except to handle non-numeric entries
+
+User-friendly feedback for each guess
+
+Simple and interactive command-line interface
+
+💡 Concepts Used
+
+Python random module
+
+Infinite loops (while True)
+
+Conditional statements (if-elif-else)
+
+Exception handling (try-except ValueError)
+
+User input handling
+
+🎓 Learning Outcome
+
+This project is ideal for beginners as it strengthens understanding of fundamental Python concepts and improves logical thinking. It also introduces basic error handling, making the program more robust and user-friendly.
