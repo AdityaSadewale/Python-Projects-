@@ -1,4 +1,4 @@
-import random
+import random #import random 
 
 emojis = {'r': '👊', 'p': '🗞️', 's': '✂️'}
 choices = ['r', 'p', 's']
