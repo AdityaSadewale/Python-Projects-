@@ -1,5 +1,4 @@
-#
-
+#Rock Paper Scissors Game 🎮
 import random #import random 
 
 emojis = {'r': '👊', 'p': '🗞️', 's': '✂️'}
