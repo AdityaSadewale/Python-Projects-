@@ -1,3 +1,5 @@
+#
+
 import random #import random 
 
 emojis = {'r': '👊', 'p': '🗞️', 's': '✂️'}
